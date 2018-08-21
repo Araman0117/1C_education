@@ -1,1 +1,1 @@
-# 1C-education
+# 1С_education
